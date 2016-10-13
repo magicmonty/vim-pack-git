@@ -1,6 +1,8 @@
 [submodule "start/vim-fugitive"]
 	path = start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+  ignore = dirty
 [submodule "start/vim-gitgutter"]
 	path = start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
+  ignore = dirty
